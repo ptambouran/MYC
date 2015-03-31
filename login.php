@@ -7,8 +7,8 @@
 </head>
 
 <body>
-
-<div> 
+<!--j'ai nomer ton div pour ajouter au css un attribut center !-->
+<div id="signup"> 
 <section>
 <form class="form" post="method" action="file:///D|/TOP/IslandProject/IslandProject/inscriptions.php">
   <p>
