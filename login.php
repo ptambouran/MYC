@@ -6,10 +6,9 @@
 </head>
 
 <body>
-<<<<<<< HEAD
+
 <!--j'ai nomer ton div pour ajouter au css un attribut center !-->
 <div id="signup"> 
-=======
   <p>
     <?php
 
