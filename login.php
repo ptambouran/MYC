@@ -13,7 +13,7 @@
     <?php
 
 echo'<div> 
->>>>>>> origin/master
+
 <section>
 <form class="form" post="method" action="inscriptions.php">
   <p>
